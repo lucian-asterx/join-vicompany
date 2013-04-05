@@ -1,0 +1,563 @@
+/* ---------------------- $IE7 -------------------------- */
+
+.ie7 .labelText {
+	top: 1px;
+}
+
+.ie7 .article6Text1,
+.ie7 .article2Text,
+.ie7 .article2TextImg,
+.ie7 .article3Text,
+.ie7 .articleText {
+	float: left;
+}
+
+.ie7 .articleText {
+	padding: 0 0 40px 0;
+}
+
+	
+.ie7 .article2Text.textLast,
+.ie7 .article6Text2 {
+	float: right;
+}
+
+.ie7 .twitter-share-button {
+	margin: -83px 0 0 200px;
+}
+
+.ie7 .fb-like {
+	margin: 0 90px 0 0;
+}
+	
+.ie7 .hr, 
+.ie7 .article3Hr {
+	text-align: left;
+}
+
+.ie7 .article2TextImg {
+	margin: 0 0 0 50px;
+}
+
+/* ---------------------- $IE8 -------------------------- */
+
+.ie8 .article1Line1 {
+	display: block;
+	text-align: center;
+}
+5
+.ie8 .developer {
+	display: block;
+	text-align: center;
+}
+
+.ie8 .twitter-share-button {
+	margin: -2px -10px 0 0;
+}
+
+.ie8 .fb-like {
+	margin: 0 0 0 -10px;
+}
+
+/* ---------------------- $IE9 -------------------------- */
+
+.ie8 .twitter-share-button {
+	margin: -2px -10px 0 0;
+}
+
+/* ---------------------- $BODY -------------------------- */
+
+.fb_reset {
+	display: none;
+}
+
+h4 {
+	margin: 1em 0;
+}
+
+#openingtext1, #openinglabel, h2, .calltoaction {
+	margin: 0 4%;
+	text-align: center;
+}
+
+h2 {
+	position: relative;
+	z-index: 5;
+}
+
+h3 {
+	margin: 0 4%;
+}
+
+.tagline {
+	text-align: center;
+	margin: 25px 5% 35px 5%;
+}
+
+p {
+	margin: 0 4% 4% 4%;
+}
+
+/* ---------------------- $ALL ARTICLES -------------------------- */
+
+
+
+.label {
+	position: relative;
+	display: block;
+	width: 220px;
+	height: 39px;
+	margin: 0 auto;	
+	padding: 12px 0 0 0;
+	background: url(../img/label.png) center no-repeat;
+	z-index: 2;
+}
+
+.articleBorderBottom {
+	background: url(../img/upperpaint-small.png) repeat-x;
+	width: 100%;
+	height: 10px;
+}
+
+article {
+	width: 100%;
+	height: 100%;
+	padding: 0 0 0 0;
+}
+
+.article {
+	background: url(../img/deathstar.png) no-repeat center -50px;
+	padding: 30px 0 40px 0;
+}
+
+.subTitleLabel {
+	text-align: center;
+}
+
+.articleImageContainer {
+	text-align: center;
+	min-width: 320px;
+	max-width: 100%;
+}
+
+.articleImage {
+	max-width: 100%;
+	margin: 80px 0 0 0;
+	overflow: hidden;
+}
+
+.preTitle {
+	text-align: center;
+	margin: 0;
+}
+
+.line {
+	display: none;
+}
+
+.hr {
+	margin: 2% 0;
+	display: block;
+	position: relative;
+	left: 50%;
+	margin: 5px 0 0 -78px;
+}
+
+.articleBorderTop {
+	background: url(../img/lowerpaint.png) repeat-x;
+	width: 100%;
+	height: 10px;
+}
+
+.subText {
+	padding: 20px 0;
+	font-weight: bold;
+	text-align: center;
+	width: 70%;
+	margin: 0 auto;
+}
+
+/* ---------------------- $altArticle -------------------------- */
+
+.altBG {
+	background: url(../img/altBG.png) no-repeat center -150px;
+	padding: 30px 0 50px 0;
+}
+
+/* ---------------------- $ARTICLE1 -------------------------- */
+
+.article1 {
+	text-align: center;
+	padding: 35px 0 35px 0;
+}
+
+.article, .altArticle {
+	text-align: center;
+}
+
+.logo {
+	max-width: 75%;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+.vicompany {
+	display: none;
+}
+
+.article1Line1 {
+	position: relative;
+	top: 350px;
+}
+
+.title {
+	text-align: center;
+	text-transform: uppercase;
+	position: relative;
+	display: block;
+}
+
+.article1Image {
+	position: absolute;
+	left: 50%;
+	margin: -60px 0 0 -159px;
+}
+
+.scrollDownButton {
+	text-align: center;
+	margin: 30px 0 20px 0;
+}
+
+.openingline {
+	text-align: center;
+	padding: 0 0 20px 0;
+}
+
+.article1Line2 {
+	text-align: center;
+	display: block;
+	margin: 350px 0 0 0;
+}
+
+/* ---------------------- $ARTICLE2 -------------------------- */
+
+.article2TextImg {
+	text-align: center;
+	background: url(../img/faces.gif) no-repeat center;
+	height: 140px;
+}
+
+.article2TextImg:hover {
+	background: url(../img/faces-mouseover.gif) no-repeat center;
+}
+
+/* ---------------------- $ARTICLE3 -------------------------- */
+
+.article3Title {
+	margin: 0 4% 20px 4%;
+}
+
+.article3Hr {
+	display: block;
+	position: relative;
+	left: 50%;
+	margin: 1% 0 0px -40px;
+}
+
+.article3Text {
+	margin: 40px 4% 0 4%;
+}
+
+/* ---------------------- $ARTICLE4 -------------------------- */
+
+.software {
+	text-align: center;
+	margin: 30px 4% 0 4%;
+}
+
+/* ---------------------- $ARTICLE5 -------------------------- */
+
+.article5Image {
+	min-width: 320px;
+	max-width: 100%;
+	margin: 20px 0 30px 0;
+	overflow: hidden;
+	text-align: center;
+}
+
+.clients {
+	text-align: center;
+	margin: 0 4% 20px 4%;
+}
+
+.clientsImg {
+	max-width: 100%;
+}
+
+.articleTextarticleText {
+	padding: 0 0 0 0;
+}
+
+/* ---------------------- $ARTICLE6 -------------------------- */
+
+.article6Image {
+	position: relative;
+	min-width: 320px;
+	max-width: 100%;
+	margin: -50px 0 70px 0;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.article6Text1, .article6Text2 {
+	margin: 20px 4% 0 4%;
+}
+
+.buttonContainer {
+	text-align: center;
+	max-width: 300px;
+	margin: 0 auto;
+	padding-bottom:64px;
+}
+
+.buttonWrapper {
+	text-align: center;
+	width: 100%;
+	margin: 50px 0;
+}
+
+.button {
+	text-align: center;
+	padding: 15px 0px;
+	display: block;
+}
+
+.smallButtonContainer {
+	text-align: center;
+	margin: 20px 0;
+}
+
+.smallButtonContainer li {
+	display: inline;
+	margin: 0 5.55555%
+}
+
+.smallButton {
+	text-align: center;
+	padding: 10px 3.8em;
+}
+
+.contact {
+	margin: 0 4%;
+}
+
+.contact li {
+	background: url(../img/star.png) no-repeat;
+	padding: 0 0 0 4%;
+	margin: 0 0 0 -4%;
+}
+
+.fb-like {
+	position: relative;
+	top: -3px;
+	margin: 0 13px 0 43px;
+}
+
+.twitter-share-button {
+	margin: -67px 50px 0 0;
+	width: 56px!important;
+}
+
+/* ---------------------- $FOOTER -------------------------- */
+
+#footerpaint {
+	width: 100%;
+	height: 27px;
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	float: left;
+}
+
+.footerText {
+	display: inline-block;
+	padding: 0 0 50px 0;
+}
+
+footer ul {
+	margin-top: 0;
+}
+
+footer li {
+	float: left;
+	margin-top: 6px;
+	width: 33.333333%;
+}
+
+footer address {
+	width: 100%;
+ 	float: left;
+}
+
+footer address p {
+	margin-top: 0.5em;
+}
+
+footer img {
+	padding: 0.5em;
+}
+
+.footerLogo {
+	background: url(../img/footerlogo.png) no-repeat center 6px;
+	display: inline-block;
+	margin: 0 10px 0 0;
+	width: 115px;
+	height: 18px;
+}
+
+.footerlogo a {
+	text-decoration: none;
+}
+
+/* ---------------------- $MEDIAQUERIES -------------------------- */
+
+@media screen and (-webkit-min-device-pixel-ratio: 2),
+screen and (-moz-min-device-pixel-ratio: 2),
+screen and (-o-min-device-pixel-ratio: 2),  
+creen and (min-device-pixel-ratio: 2) {
+	
+	.footerLogo {
+	background: url(../img/footerlogo-retina.png) no-repeat center 16px;
+	background-size: 50%;
+	display: inline-block;
+	width: 224px;
+	height: 28px;
+	}
+
+	.footerText {
+		margin-left: -50px;
+	}
+	
+}
+
+@media screen and (max-width: 400px) {
+	.article4Image {
+		margin: 10px 0 0 0;
+	}
+}
+
+
+@media screen and (min-width: 600px) {
+
+	.line {
+		display: inline;
+		padding: 0 2%;
+	}
+}
+
+@media screen and (min-width: 768px) {	
+	.openingline	{
+		margin: -280px 0 170px 0;
+	}
+	
+	.article1Line1 {
+		position: relative;
+		top: 135px;
+	}
+
+	.article1Line1Left {
+/*		margin: 0 220px 0 -75px;*/
+		margin: 0 250px 0 0px;
+	}
+
+	.articleTextarticleText {
+		max-width: 960px;
+		float: none;
+		margin: 0 auto;
+		padding: 0 4%;
+	}
+
+	.articleText {
+		max-width: 480px;
+		display: inline-block;
+		vertical-align: text-top;
+		width: 44%;
+		margin: 2% 2% 0 2%;
+	}
+
+	.article2Text {
+		max-width: 480px;
+		display: inline-block;
+		vertical-align: text-top;
+		width: 30.6%;
+		margin: 0 0 0 4%;
+	}
+
+	
+	.article2TextImg {
+		display: inline-block;
+		vertical-align: text-top;
+		width: 20%;
+		margin: 0 0 0 4%;
+		text-align: center;
+	}
+	
+	.article1Line2 {
+		margin: 305px 0 0 0;
+	}
+	
+	.article3Text {
+		max-width: 480px;
+		display: inline-block;
+		vertical-align: text-top;
+		width: 27.6%;
+		margin: 50px 0 0 4%;
+	}
+	
+	.article3Image {
+		margin: 80px 0 -370px 0;
+	}
+	
+	.article4Image {
+		padding: 0 4px 0 0;
+	}
+	
+	.article5Image {
+		margin: -80px 0 30px 0;
+	}
+
+	.article6Image {
+		margin: -80px 0 70px 0;
+	}
+		
+	.article6Text1 {
+		max-width: 480px;
+		display: inline-block;
+		vertical-align: text-top;
+		width: 40%;
+		margin: 0 0 4% 15%;	
+	}
+	
+	.article6Text2 {
+		max-width: 480px;
+		display: inline-block;
+		vertical-align: text-top;
+		width: 28%;
+		margin: 0 10% 4% 4%;	
+	}
+	
+	.textLast {
+		margin: 0 4% 0 4%;
+	}
+	
+	.textLastArticle3 {
+		margin: 50px 4% 0 4%;
+	}
+	
+	.subText {
+		padding: 80px 0 20px 0;
+	}
+}

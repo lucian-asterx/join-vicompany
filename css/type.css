@@ -1,0 +1,12 @@
+/* Type */
+
+@font-face {
+    font-family: 'PropagandaRegular';
+    src: url('../type/propagan-webfont.eot');
+    src: url('../type/propagan-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../type/propagan-webfont.woff') format('woff'),
+         url('../type/propagan-webfont.ttf') format('truetype'),
+         url('../type/propagan-webfont.svg#PropagandaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
